@@ -34,3 +34,7 @@
 	path = rpn
 	url = git://github.com/hamgom95/rpn.git
 	branch = master
+[submodule "objtools"]
+	path = objtools
+	url = git://github.com/hamgom95/objtools.git
+	branch = master
