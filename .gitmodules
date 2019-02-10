@@ -38,3 +38,15 @@
 	path = objtools
 	url = git://github.com/hamgom95/objtools.git
 	branch = master
+[submodule "hook-event"]
+	path = hook-event
+	url = git://github.com/hamgom95/hook-event.git
+[submodule "reducer"]
+	path = reducer
+	url = git://github.com/hamgom95/reducer.git
+[submodule "ops"]
+	path = ops
+	url = git://github.com/hamgom95/ops.git
+[submodule "hook-switchlist"]
+	path = hook-switchlist
+	url = git://github.com/hamgom95/hook-switchlist.git
