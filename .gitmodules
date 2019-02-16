@@ -50,3 +50,7 @@
 [submodule "hook-switchlist"]
 	path = hook-switchlist
 	url = git://github.com/hamgom95/hook-switchlist.git
+[submodule "enum"]
+	path = enum
+	url = git://github.com/hamgom95/enum.git
+	branch = master
