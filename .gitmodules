@@ -54,3 +54,8 @@
 	path = enum
 	url = git://github.com/hamgom95/enum.git
 	branch = master
+[submodule "observables"]
+	path = observables
+	url = git@github.com:hamgom95/observables.git
+	branch = master
+
