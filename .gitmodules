@@ -1,58 +1,58 @@
 [submodule "native-rpn"]
 	path = native-rpn
-	url = git://github.com/hamgom95/native-rpn.git
+	url = git@github.com:hamgom95/native-rpn.git
 	branch = master
 [submodule "arrayset"]
 	path = arrayset
-	url = git://github.com/hamgom95/arrayset.git
+	url = git@github.com:hamgom95/arrayset.git
 	branch = master
 [submodule "bikecalc"]
 	path = bikecalc
-	url = git://github.com/hamgom95/bikecalc.git
+	url = git@github.com:hamgom95/bikecalc.git
 	branch = master
 [submodule "blob"]
 	path = blob
-	url = git://github.com/hamgom95/blob.git
+	url = git@github.com:hamgom95/blob.git
 	branch = master
 [submodule "bound"]
 	path = bound
-	url = git://github.com/hamgom95/bound.git
+	url = git@github.com:hamgom95/bound.git
 	branch = master
 [submodule "itertools"]
 	path = itertools
-	url = git://github.com/hamgom95/itertools.git
+	url = git@github.com:hamgom95/itertools.git
 	branch = master
 [submodule "ndim"]
 	path = ndim
-	url = git://github.com/hamgom95/ndim.git
+	url = git@github.com:hamgom95/ndim.git
 	branch = master
 [submodule "pick"]
 	path = pick
-	url = git://github.com/hamgom95/pick.git
+	url = git@github.com:hamgom95/pick.git
 	branch = master
 [submodule "rpn"]
 	path = rpn
-	url = git://github.com/hamgom95/rpn.git
+	url = git@github.com:hamgom95/rpn.git
 	branch = master
 [submodule "objtools"]
 	path = objtools
-	url = git://github.com/hamgom95/objtools.git
+	url = git@github.com:hamgom95/objtools.git
 	branch = master
 [submodule "hook-event"]
 	path = hook-event
-	url = git://github.com/hamgom95/hook-event.git
+	url = git@github.com:hamgom95/hook-event.git
 [submodule "reducer"]
 	path = reducer
-	url = git://github.com/hamgom95/reducer.git
+	url = git@github.com:hamgom95/reducer.git
 [submodule "ops"]
 	path = ops
-	url = git://github.com/hamgom95/ops.git
+	url = git@github.com:hamgom95/ops.git
 [submodule "hook-switchlist"]
 	path = hook-switchlist
-	url = git://github.com/hamgom95/hook-switchlist.git
+	url = git@github.com:hamgom95/hook-switchlist.git
 [submodule "enum"]
 	path = enum
-	url = git://github.com/hamgom95/enum.git
+	url = git@github.com:hamgom95/enum.git
 	branch = master
 [submodule "observables"]
 	path = observables
