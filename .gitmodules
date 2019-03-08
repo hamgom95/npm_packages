@@ -63,3 +63,7 @@
 	path = templates
 	url = git@github.com:hamgom95/templates.git
 	branch = master
+[submodule "jquery-tools"]
+	path = jquery-tools
+	url = git@github.com:hamgom95/jquery-tools.git
+	branch = master
