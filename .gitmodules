@@ -67,3 +67,7 @@
 	path = jquery-tools
 	url = git@github.com:hamgom95/jquery-tools.git
 	branch = master
+[submodule "parcel-plugin-mustache"]
+	path = parcel-plugin-mustache
+	url = git@github.com:hamgom95/parcel-plugin-mustache.git
+	branch = master
