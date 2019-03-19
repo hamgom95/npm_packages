@@ -71,3 +71,7 @@
 	path = parcel-plugin-mustache
 	url = git@github.com:hamgom95/parcel-plugin-mustache.git
 	branch = master
+[submodule "asiter"]
+	path = asiter
+	url = git@github.com:hamgom95/asiter.git
+	branch = master
