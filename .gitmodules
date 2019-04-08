@@ -75,3 +75,7 @@
 	path = asiter
 	url = git@github.com:hamgom95/asiter.git
 	branch = master
+[submodule "pieces"]
+	path = pieces
+	url = git@github.com:hamgom95/pieces.git
+	branch = master
