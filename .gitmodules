@@ -79,3 +79,7 @@
 	path = pieces
 	url = git@github.com:hamgom95/pieces.git
 	branch = master
+[submodule "xml2pojo"]
+	path = xml2pojo
+	url = git@github.com:hamgom95/xml2pojo.git
+	branch = master
